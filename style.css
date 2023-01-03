@@ -7,11 +7,14 @@ body{
 
 .centered_picture{
     position: absolute;
-    width: 410px;
-    height: 450px;
+    width: 100%;
+    height: auto;
+    max-width: 450px;
+    transform: translate(-50%, -50%);
     top: 50%;
     left: 77%;
-    transform: translate(-50%, -50%);
+    
+    
 }
 
 /* Add a background color to the top navigation */
