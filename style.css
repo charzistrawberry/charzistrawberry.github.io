@@ -130,7 +130,7 @@ body{
   height: 50%;
   margin: 0 auto;
   text-align: center;
-  position: fixed;
+  position: absolute;
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -147,9 +147,10 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 20px;
-  font-family:'Courier New', Courier, monospace;
-  font-weight:600;
+  font-size: 25px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  font-weight:300;
 
 }
 
@@ -174,7 +175,7 @@ body{
   text-align: center;
   position: absolute;
   width: 60%;
-  top: 10%;
+  top: 13%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-weight: 800;
@@ -188,15 +189,15 @@ body{
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-weight: 600;
-  color:#5F8B68;
+  font-weight: 500;
+  color:black;
 }
 
 #links{
   font-family:'Courier New', Courier, monospace;
   
   position: absolute;
-  top: 55%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 17px;
@@ -210,7 +211,7 @@ body{
   width:270px;
   height:200px;
   position: absolute;
-  top:45%;
+  top:50%;
   left: 20%;
   transform: translate(-50%,0%);
 }
@@ -219,11 +220,83 @@ body{
   position: absolute;
   width: 230px;
   height: 240px;
-  top: 43%;
+  top: 47%;
   left: 80%;
   transform: translate(-50%, 0%);
   border: 5px solid #4D69B6;
 }
+
+.positions_label{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight:800;
+  
+ 
+}
+
+
+.position_date{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  font-weight: 600;
+  
+ 
+
+}
+
+.position_para{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+
+.experience_block{
+  position:absolute;
+  left: 3%;
+  top: 10%;
+  width: 70%
+}
+
+#gao{
+  position:absolute;
+  top: 5%;
+  left: 105%;
+  width: 20%;
+  height: auto;
+}
+
+#nyit_logo{
+  position: absolute;
+  top: 20%;
+  left: 105%;
+  width: 25%;
+  height: auto;
+}
+
+#nyit_poster{
+  width: 60%;
+  height: auto;
+}
+
+#mit_urtc{
+  transform: translate(0%, -50%);
+  position: absolute;
+  top: 40%;
+  left: 105%;
+  width: 30%;
+
+}
+
+#nyit_group{
+  position: absolute;
+  top: 50%;
+  left: 105%;
+  width: 30%;
+  height: auto;
+  border: 5px solid white;
+  
+  
+  
+}
+
 
 
 
