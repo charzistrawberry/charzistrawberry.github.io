@@ -341,11 +341,12 @@ body{
   font-size: 25px;
 }
 #ensemble{
-  width: 20%;
+  transform:translate(0%,0%);
+  width: 25%;
   height: auto;
   position: absolute;
   left: 70%;
-  top: 35%;
+  top: 40%;
 }
 
 #flappy{
