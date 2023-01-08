@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projects</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -14,21 +15,51 @@
         <a href="./experience.html">Experiences</a>
         <a href="./projects.html">Projects</a>
         <a href="./activities.html">Activities</a>
-        <a href="./activities.html">Hobbies</a>
+         <!--<a href="./hobbies.html">Hobbies</a>-->
         <a href="./contact.html">Contact Me</a>
     </div>
 
-    <h1>Projects</h1>
-
     
+    <a target="_blank" href="https://github.com/charzistrawberry"><img id = "github_logo" src="github_logo.png"/></a>
+   
+    <img id="ensemble" src ="ensembleStruct.png">
+    <div class = "projects">
 
-    <h2>Github: </h2>
+        <h2 class = "project_title">EnsembleDroid</h2>
 
-    <h3>EnsembleDroid: A Malware Detection Approach for Android System based on Ensemble Learning</h3>
+        
+        <p class = "projects_para">A malware detection approach that is able to determine whether an Android application is considered malicion or benign.
+            Two classifiers were utilized based on Ensemble Learning. The structure of the classifier starts with Android apps
+            in the form of APK files which is decompiled into several readable files. The manifest file of each app is extracted using
+            a python script that creates an XML file of binary vectors where each vector represents the permissions that app utilizes. That 
+            XML file is split 80/20 where 80% is used for training and 20% is used for testing. A 10 fold cross validation procedure was used for analysis of
+            the classifiers' results. Both homogenous and heterogeneous stacking classifiers produced results of up to 91% using machine learning algorithims 
+            such as Support Vector Machines, K-Neighest Neighbor, Linear Regression, and Logistic Regression.
 
-    <h3>214 Projects</h3>
+            <br><br><br>Key Words: Machine Learning, Malware Detection, Android System, Ensemble Learning
+        </p>
+       
 
-    <h3>Flappy Bird Family</h3>
+        <h2 class = "project_title"><br><br><br>Flappy Bird Family</h2>
+        <p class = "projects_para">A game for the computer system inspired by the original Flappy Bird Game. Game allows users to choose different birds that they must direct through 
+            several obstacles, some are ghosts while others are bonus points. Game is created in Python using Object Oriented Programming fundamentals. 
+
+            <br><br><br>Key Words: Python, Object Oriented Programming, Game
+        </p>
+
+        <iframe id = "flappy" width="420" height="300" src="https://www.youtube.com/embed/_wWUUwku3p0"> </iframe>
+
+
+        <h2 class="project_title"><br><br><br>Long Island Railroad Simulation</h2>
+        <p class = "projects_para">Simulation that replicates the system of the Long Island railroad. Users can see the train travel times 
+            and arrival times at each station. Users can also keep track of the number of people in each cart as well as on the platforms 
+            waiting at each station. Capacity of space is considered in the cart and will pose an alert if number of passengers exceen the limit. 
+            Program utilizes foundations of data structures and algorithms as well as object-oriented programming. 
+
+            <br><br><br>Key Words: Java, Data Structure & Algorithims, Object-Oriented Programming, Java
+        </p>
+    </div>
+
 
     
 </body>

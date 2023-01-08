@@ -26,7 +26,7 @@ body{
     top: 0%;
     left: 50%;
     transform: translate(-50%, 0%);
-    width: 1000px;
+    width: 800px;
     
   }
 
@@ -147,7 +147,7 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 25px;
+  font-size: 23px;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
   font-weight:300;
@@ -279,23 +279,155 @@ body{
 #mit_urtc{
   transform: translate(0%, -50%);
   position: absolute;
-  top: 40%;
+  top: 45%;
   left: 105%;
   width: 30%;
 
 }
 
-#nyit_group{
+#ieee{
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 105%;
   width: 30%;
   height: auto;
-  border: 5px solid white;
-  
   
   
 }
+
+#jei{
+  position: absolute;
+  top: 81%;
+  left: 105%;
+  width: 30%;
+  height: auto;
+}
+
+#cchc{
+  position: absolute;
+  top: 93%;
+  left: 105%;
+}
+
+#github_logo{
+  position: absolute;
+  width: 15%;
+  height: auto;
+  transform: translate(-50%, 0%);
+  top: 13%;
+  left: 50%;
+  border: 1px solid black;
+  padding: 2px;
+
+  
+}
+
+
+
+.projects{  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  top: 30%;
+  left: 3%;
+}
+
+.projects_para{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  width: 65%;
+}
+
+.project_title{
+  font-size: 25px;
+}
+#ensemble{
+  width: 20%;
+  height: auto;
+  position: absolute;
+  left: 70%;
+  top: 25%;
+}
+
+#flappy{
+  position: absolute;
+  left: 69%;
+  top: 45%;
+}
+
+
+#butterflies{
+  position: fixed;
+  top: 5%;
+  left:40%;
+  transform: translate(-50%, 0%);
+  height: 100%;
+  width: auto;
+}
+
+.activities_logo{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  top: 15%;
+
+}
+
+.activities_block{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  top: 20%;
+  left: 3%;
+  width: 70%;
+}
+
+.act_para{
+  font-size:20px;
+}
+
+#sbcs_logo{
+  position: absolute;
+  width: 25%;
+  height: auto;
+  left: 110%;
+  top: 8%;
+  border: 3px solid #3399ff;
+  
+}
+
+#vip_logo{
+  
+  position: absolute;
+  left: 110%;
+  width: 25%;
+  height: auto;
+  top: 33%;
+  border: 3px solid #9C9696;
+}
+
+#vip_logo2{
+  position: absolute;
+  left: 110%;
+  width: 25%;
+  height: auto;
+  top: 57%;
+  border: 3px solid #9C9696;
+}
+
+#wics_logo{
+  position: absolute;
+  left: 110%;
+  top: 87%;
+  width: 25%;
+  height: auto;
+  border: 3px solid #6ECFFF;
+}
+
+
+
+
+
+
+
 
 
 
