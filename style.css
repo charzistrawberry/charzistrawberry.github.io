@@ -297,7 +297,7 @@ body{
 
 #jei{
   position: absolute;
-  top: 81%;
+  top: 79%;
   left: 105%;
   width: 30%;
   height: auto;
@@ -359,7 +359,7 @@ body{
 #butterflies{
   position: fixed;
   top: 5%;
-  left:40%;
+  left:44%;
   transform: translate(-50%, 0%);
   height: 100%;
   width: auto;
