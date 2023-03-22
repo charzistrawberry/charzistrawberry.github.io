@@ -390,7 +390,7 @@ body{
   width: 25%;
   height: auto;
   left: 110%;
-  top: 8%;
+  top: 43%;
   border: 3px solid #3399ff;
   
 }
@@ -401,7 +401,7 @@ body{
   left: 110%;
   width: 25%;
   height: auto;
-  top: 33%;
+  top: 24%;
   border: 3px solid #9C9696;
 }
 
@@ -410,17 +410,26 @@ body{
   left: 110%;
   width: 25%;
   height: auto;
-  top: 57%;
+  top: 65%;
   border: 3px solid #9C9696;
 }
 
 #wics_logo{
   position: absolute;
   left: 110%;
-  top: 87%;
+  top: 89%;
   width: 25%;
   height: auto;
   border: 3px solid #6ECFFF;
+}
+
+#ieee_logo{
+  position: absolute;
+  width: 25%;
+  left: 110%;
+  height: auto;
+  top: 8%;
+
 }
 
 
