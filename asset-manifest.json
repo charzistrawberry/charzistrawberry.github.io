@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e2ee0eb.css",
+    "main.js": "/static/js/main.55c099ec.js",
+    "static/media/sharon3.jpg": "/static/media/sharon3.4863d00add54d22d3c49.jpg",
+    "static/media/resume.pdf": "/static/media/resume.568d22ac0a5514d1ca42.pdf",
+    "static/media/sharon2.jpg": "/static/media/sharon2.161b6ef6aa63f3c796ab.jpg",
+    "static/media/decaf.png": "/static/media/decaf.96e010b987b6c2b3c000.png",
+    "static/media/train.jpg": "/static/media/train.26f56c1289f43823523a.jpg",
+    "static/media/github.png": "/static/media/github.a5ac4119faf38ee439f5.png",
+    "index.html": "/index.html",
+    "main.9e2ee0eb.css.map": "/static/css/main.9e2ee0eb.css.map",
+    "main.55c099ec.js.map": "/static/js/main.55c099ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e2ee0eb.css",
+    "static/js/main.55c099ec.js"
+  ]
+}
