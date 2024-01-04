@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e2ee0eb.css",
-    "main.js": "/static/js/main.55c099ec.js",
+    "main.css": "/static/css/main.21e44ac7.css",
+    "main.js": "/static/js/main.9644c83e.js",
+    "static/media/EnsembleDroid.pdf": "/static/media/EnsembleDroid.f3107e78c1ffb2f6fa79.pdf",
     "static/media/sharon3.jpg": "/static/media/sharon3.4863d00add54d22d3c49.jpg",
     "static/media/resume.pdf": "/static/media/resume.568d22ac0a5514d1ca42.pdf",
     "static/media/sharon2.jpg": "/static/media/sharon2.161b6ef6aa63f3c796ab.jpg",
+    "static/media/vipLogo.png": "/static/media/vipLogo.bc71ba959d7297f5462e.png",
+    "static/media/ieee.png": "/static/media/ieee.8a6e08d0042cb0c671b4.png",
     "static/media/decaf.png": "/static/media/decaf.96e010b987b6c2b3c000.png",
     "static/media/train.jpg": "/static/media/train.26f56c1289f43823523a.jpg",
     "static/media/github.png": "/static/media/github.a5ac4119faf38ee439f5.png",
     "index.html": "/index.html",
-    "main.9e2ee0eb.css.map": "/static/css/main.9e2ee0eb.css.map",
-    "main.55c099ec.js.map": "/static/js/main.55c099ec.js.map"
+    "main.21e44ac7.css.map": "/static/css/main.21e44ac7.css.map",
+    "main.9644c83e.js.map": "/static/js/main.9644c83e.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e2ee0eb.css",
-    "static/js/main.55c099ec.js"
+    "static/css/main.21e44ac7.css",
+    "static/js/main.9644c83e.js"
   ]
 }
