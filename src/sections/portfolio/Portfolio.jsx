@@ -5,6 +5,7 @@ import decaf from '../../assets/decaf.png'
 import fakeSO from '../../assets/fakeSO.png'
 import flappy from '../../assets/flappy.png'
 import train from '../../assets/train.jpg'
+import EnsembleDroid from '../../assets/EnsembleDroid.pdf'
 
 
 
@@ -32,7 +33,7 @@ const Portfolio = () => {
           </div>
           <h3>EnsembleDroid</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/charzistrawberry/charzistrawberry.github.io" className= "btn" target="_blank">Github</a>
+            <a href="https://ieeexplore.ieee.org/document/10002213" className= "btn" target="_blank">IEEE Xplore</a>
           </div>
          
         </article>
@@ -44,7 +45,7 @@ const Portfolio = () => {
           <h3>Decaf Compiler</h3>
           
           <div className="portfolio__item-cta">
-            <a href="https://github.com/charzistrawberry/charzistrawberry.github.io" className= "btn" target="_blank">Github</a>
+            <a href="https://github.com/charzistrawberry/decaf_compiler" className= "btn" target="_blank">Github</a>
           </div>
         </article>
 
@@ -55,7 +56,7 @@ const Portfolio = () => {
           <h3>Fake Stack Overflow</h3>
           
           <div className="portfolio__item-cta">
-            <a href="https://github.com/charzistrawberry/charzistrawberry.github.io" className= "btn" target="_blank">Github</a>
+            <a href="https://github.com/charzistrawberry/fakeStackOverFlow" className= "btn" target="_blank">Github</a>
           </div>
         </article>
 
@@ -66,8 +67,9 @@ const Portfolio = () => {
           <h3>Flappy Bird Family</h3>
           
           <div className="portfolio__item-cta">
-            <a href="https://github.com/charzistrawberry/charzistrawberry.github.io" className= "btn" target="_blank">Github</a>
+            <a href="https://www.youtube.com/watch?v=_wWUUwku3p0&ab_channel=s.guan" className= "btn" target="_blank">Youtube</a>
           </div>
+        
         </article>
 
         <article className="portfolio__item">
@@ -77,7 +79,7 @@ const Portfolio = () => {
           <h3>Long Island Railroad Simulation</h3>
           
           <div className="portfolio__item-cta">
-            <a href="https://github.com/charzistrawberry/charzistrawberry.github.io" className= "btn" target="_blank">Github</a>
+            <a href="https://github.com/charzistrawberry/LIRR-Simulator" className= "btn" target="_blank">Github</a>
           </div>
         </article>
       </div>

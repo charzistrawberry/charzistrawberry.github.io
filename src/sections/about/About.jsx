@@ -22,26 +22,29 @@ const About = () => {
           <div className="about__cards">
             <article className = "about__card">
               <MdComputer className="about__icon"/>
-              <h5>Major</h5>
-              <small>Computer Science</small>
+              <h5>Computer Science</h5>
+              <small>Student</small>
 
             </article>
 
             <article className = "about__card">
               <TbSchool className="about__icon"/>
-              <h5>Year</h5>
+              <h5>Stony Brook University</h5>
               <small>Senior</small>
             </article>
 
             <article className = "about__card">
               <MdOutlineScience className="about__icon"/>
-              <h5>Program</h5>
-              <small>WISE Honors</small>
+              <h5>WISE Honors</h5>
+              <small>Program</small>
             </article>
           </div>
 
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima veniam autem similique ad doloremque ut enim cumque vel, atque sed commodi ex at? Maiores, amet veritatis! Facere cupiditate ipsum molestias. 
+          <p>
+            As a Computer Science student, I approach my acadmic pursuits with a profound curiousity and unwavering commitment to continuous learning.
+            I am adept at tackling challenges, driven by a genuine passion for delving into the intricate intersections of machine learning within the fields of cybersecurity and data analytics.
+            This personal website serves as a platform to showcase my academic and professional endeavors, providing a comprehensive insight into my skills, projects, and aspirations!
           </p>
 
           <a href="#contact" className="btn btn-primary"> Let's Talk</a>

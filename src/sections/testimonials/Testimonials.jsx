@@ -1,5 +1,8 @@
 import './testimonials.css'
 import avatar from '../../assets/avatar.jpg'
+import ieee from '../../assets/ieee.png'
+import sbucomputing from '../../assets/sbucomputing.jpg'
+import vipLogo from '../../assets/vipLogo.png'
 
 // import Swiper core and required modules
 import {Pagination} from 'swiper/modules';
@@ -14,19 +17,19 @@ import 'swiper/css/pagination';
 
 const data=[
   {
-    avatar: avatar,
-    name: "James Bond",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla distinctio voluptatibus nam a est vero iure! Repellendus excepturi tempora ut quas, aspernatur molestias earum necessitatibus magnam, minus sapiente, perferendis quod"
+    avatar: ieee,
+    name: "IEEE Professional Development Chair",
+    review: "Led the orchestration and oversight of the IEEE Research Conference Panel, a vital platform for showcasing cutting-edge research and promoting academic excellence within the IEEE community. Communicate with company employers for professional development opportunities. Responsible for professional, academic, social, and technical outreach/collaboration."
   },
   {
-    avatar: avatar,
-    name: "Iron Man",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla distinctio voluptatibus nam a est vero iure! Repellendus excepturi tempora ut quas, aspernatur molestias earum necessitatibus magnam, minus sapiente, perferendis quod"
+    avatar: sbucomputing,
+    name: "Stony Brook Computing Society Community Chair",
+    review: "Led workshop events on building technical skills and career preparation. Managed collaboration events with other clubs and organizations."
   },
   {
-    avatar: avatar,
-    name: "Joe Biden",
-    review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla distinctio voluptatibus nam a est vero iure! Repellendus excepturi tempora ut quas, aspernatur molestias earum necessitatibus magnam, minus sapiente, perferendis quod"
+    avatar: vipLogo,
+    name: "VIP Team Member",
+    review: "Contributed to SBUMaps, a mobile app that helps Stony Brook University students navigate to their designated classes within a specific building. Conducted brief research in Secure Distributed Computation and Learning Networks under Professor Ji Liu."
   },
 ]
 
@@ -35,8 +38,8 @@ const data=[
 const Testimonials = () => {
   return (
     <section id="testimonials">
-      <h5>Review from clients</h5>
-      <h2>Testimonials</h2>
+      <h5>School Involvment</h5>
+      <h2>Activities</h2>
 
       <Swiper className="container testimonials__container"
           // install Swiper modules
