@@ -33,7 +33,7 @@ const Contact = () => {
             <BsLinkedin className = "contact__option-icon"/>
             <h4>LinkedIn</h4>
             <h5>sharon-guan-2575b8226/</h5>
-            <a href="https://www.linkedin.com/in/sharon-guan-2575b8226/" target="_blank">Link</a>
+            <a href="https://www.linkedin.com/in/sharon-guan-2575b8226/" target="_blank">LinkedIn</a>
         </article>
       </div>
 

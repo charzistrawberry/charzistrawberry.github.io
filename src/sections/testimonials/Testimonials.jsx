@@ -29,7 +29,7 @@ const data=[
   {
     avatar: vipLogo,
     name: "VIP Team Member",
-    review: "Contributed to SBUMaps, a mobile app that helps Stony Brook University students navigate to their designated classes within a specific building. Conducted brief research in Secure Distributed Computation and Learning Networks under Professor Ji Liu."
+    review: "Contributed to SBUMaps, a mobile app that helps Stony Brook University students navigate to their designated classes within a specific building. Conducted brief research in Secure Distributed Computation and Learning Networks under Professor Liu"
   },
 ]
 

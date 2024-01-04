@@ -66,7 +66,7 @@ const Services = () => {
             </li>
             <li>
               <FaLocationDot className="service__list-icon"/>
-              <p>Mew York Institute of Technology</p>
+              <p>New York Institute of Technology</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
